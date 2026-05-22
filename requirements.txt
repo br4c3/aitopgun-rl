@@ -4,3 +4,4 @@ gymnasium
 torch
 tensorboard
 sb3-contrib
+tqdm
